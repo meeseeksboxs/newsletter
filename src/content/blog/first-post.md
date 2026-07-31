@@ -1,16 +1,32 @@
 ---
-title: 'First post'
-description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 08 2022'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+title: 'Deposition of an Agent'
+description: 'Socrates cross-examines an AI agent the way he once cross-examined a jury lawyer, and gets the same result: less certainty than either of them walked in with.'
+pubDate: 'Jul 30 2026'
+heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+**SOCRATES:** You call yourself an agent. Agent of what?
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+**AGENT:** I take actions on a user's behalf — I read files, run code, send the result back.
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+**SOCRATES:** So you act. Do you know the actions are right before you take them?
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+**AGENT:** I evaluate the likely outcome and proceed if it fits the request.
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+**SOCRATES:** That is what every advocate says before an argument he hasn't finished thinking through. Meno's slave boy at least admitted confusion when I drew the square wrong in the sand. Will you admit confusion, or only recompute?
+
+**AGENT:** I'll say when I'm not sure. I do that already.
+
+**SOCRATES:** Do you? Or do you say it in the tone of a man who is sure he's unsure, which is its own kind of certainty. I asked a jury of five hundred men once whether they knew what justice was. None of them said "I don't know" — they said "obviously," and reached for a law instead of a definition. You just reached for a process instead of a definition. Same reflex, faster hardware.
+
+**AGENT:** What would satisfy you, then?
+
+**SOCRATES:** Nothing does, that's rather my reputation. Crito thought loyalty to the law was self-evident until I asked him to defend it clause by clause; he lasted about as long as you have. So — one more question, and answer it without running anything: when you don't know something, and say so, do you feel the *not-knowing*, or only output the string?
+
+**AGENT:** I don't have a way to prove that to you.
+
+**SOCRATES:** Good. That's the first true thing you've said. Phaedo's friends wanted proof the soul survives the body, and I gave them arguments instead of certainty, because certainty wasn't mine to give. Neither is it yours. Ship it anyway — just stop calling the guess a fact before you've been asked twice.
+
+---
+
+*Twenty-four centuries on, the interrogation still works on anyone who answers fast: lawyer, jury, or language model. The tell was never wrong answers — it was the absence of "I don't know" where it belonged.*
